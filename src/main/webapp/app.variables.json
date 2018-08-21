@@ -39,8 +39,10 @@
     "name" : "supportedLocale",
     "owner" : "App",
     "category" : "wm.Variable",
+    "dataBinding" : [ ],
     "dataSet" : {
-      "en" : "English"
+      "en" : "English",
+      "hi" : "हिंदी"
     },
     "type" : "string",
     "isList" : false,
