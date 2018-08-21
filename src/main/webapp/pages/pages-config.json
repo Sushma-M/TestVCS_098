@@ -27,6 +27,14 @@
   "type" : "RIGHTNAV",
   "params" : [ ]
 }, {
+  "name" : "test1",
+  "type" : "PARTIAL",
+  "params" : [ ]
+}, {
+  "name" : "test933",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
   "name" : "topnav",
   "type" : "TOPNAV",
   "params" : [ ]
